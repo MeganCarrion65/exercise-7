@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>United States Constitution</title>
+    <link href="css/style.css" rel="stylesheet" />
   </head>
 
   <body>
@@ -207,109 +208,109 @@
 
    <p>All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.</p>
 
-          <h4>Section II</h4>
+   <h4>Section II</h4>
 
-          <p>Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed.</p>
+   <p>Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed.</p>
 
-          <h4>Section III</h4>
+   <h4>Section III</h4>
 
-          <p>No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.</p>
+   <p>No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.</p>
 
-          <h4>Section IV</h4>
+   <h4>Section IV</h4>
 
-          <p>The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned.</p>
+   <p>The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XV</h3>
 
-          <h4>Section I</h4>
+   <h4>Section I</h4>
 
-          <p>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.</p>
+   <p>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.</p>
 
-          <h4>Section II</h4>
+   <h4>Section II</h4>
 
-          <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
+   <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XVI</h3>
 
-          <p>The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.</p>
+   <p>The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.</p>
         </article>
 
-        <article>
+  <article>
           <h3>Amendment XVII</h3>
 
-          <p>The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote.</p>
+   <p>The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XVIII</h3>
 
-          <p><del>After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.</del></p>
+   <p><del>After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.</del></p>
 
-          <p>See Amendment XXI.</p>
+   <p>See Amendment XXI.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XIX</h3>
 
-          <p>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.</p>
+   <p>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XX</h3>
 
-          <p>The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3rd day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.</p>
+   <p>The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3rd day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XXI</h3>
 
-          <p>The eighteenth article of amendment to the Constitution of the United States is hereby repealed.</p>
+   <p>The eighteenth article of amendment to the Constitution of the United States is hereby repealed.</p>
         </article>
 
-        <article>
+  <article>
           <h3>Amendment XXII</h3>
 
-          <p>No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.</p>
+   <p>No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XXIII</h3>
 
-          <p>The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct...</p>
+   <p>The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct...</p>
         </article>
 
-        <article>
+  <article>
           <h3>Amendment XXIV</h3>
 
-          <p>The right of citizens of the United States to vote in any primary or other election for President or Vice President for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.</p>
+   <p>The right of citizens of the United States to vote in any primary or other election for President or Vice President for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.</p>
         </article>
 
-        <article>
+  <article>
           <h3>Amendment XXV</h3>
 
-          <p>In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.</p>
+   <p>In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.</p>
         </article>
 
-        <article>
+  <article>
           <h3>Amendment XXVI</h3>
 
-          <p>The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.</p>
+   <p>The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Amendment XXVII</h3>
 
-          <p>No law varying the compensation for the services of the Senators and Representatives shall take effect, until an election of Representatives shall have intervened.</p>
+   <p>No law varying the compensation for the services of the Senators and Representatives shall take effect, until an election of Representatives shall have intervened.</p>
         </article>
 
-      </section>
-    </main>
+   </section>
+   </main>
 
-    <footer>
+   <footer>
       <p><small>Source: <a href="https://www.constituteproject.org/constitution/United_States_of_America_1992">Constitute</a></small></p>
     </footer>
   </body>
